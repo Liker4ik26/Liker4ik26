@@ -13,6 +13,14 @@
 - **Go_router**
 - **Firebase**
 - **Supabase**
+- **Auto_Route**
+- **Navigator**
+- **Riverpod**
+- **Get_it**
+- **Injectable**
+- "Shared_Preferences"
+- "Hive"
+- "Realm"
 - **GIT**
 
 🌍 Я живу в Омске  
