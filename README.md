@@ -1,15 +1,15 @@
-<h2 align="left">Hi 👋! My name is Lika and I'm a flutter-developer, from ....</h2>
+###
+ ![Hi there!](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+<h1 align="left" > Hi! My name is Lika and I'm a Flutter Developer.</h1>
+ </h3> I create intuitive user interfaces and integrate with APIs, working in an Agile environment. I am committed to continuous professional development and the implementation of modern technologies to achieve high business results. I actively engage in networking and continue to grow within my field.</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Liker4ik26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Liker4ik26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ## Навыки
 
@@ -40,17 +40,13 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ###
-
-# Привет, меня зовут Анжелика Семенова 👋
-
-![Hi there!](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-### Flutter-разработчик
-
-Я — Flutter-разработчик, стремлюсь к постоянному профессиональному развитию и внедрению современных технологий для достижения высоких бизнес-результатов.
 
 **Технический стек:**
 - **Bloc**
