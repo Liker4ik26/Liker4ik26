@@ -71,6 +71,11 @@
 - **GitHub**
 - **GitLab**
 - **Figma**
+- **Jira**
+- **Yandex Tracker**
+- **Notion**
+- **Postman**
+
 
 
  ## Contacts
