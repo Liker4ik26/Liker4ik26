@@ -66,6 +66,10 @@
 ### Storage for quick access:
 - **Shared_Preferences**
 
+### Working with maps
+- **Yandex_mapkit**
+- **Google_maps_flutter**
+
 ### Other:
 - **GIT**
 - **GitHub**
