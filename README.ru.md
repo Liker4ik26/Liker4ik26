@@ -58,12 +58,40 @@
 
 ### Основные проекты
 
-| Проект | Что внутри | Стек |
-| :--- | :--- | :--- |
-| [**Questopia**](https://github.com/Liker4ik26/questopia) | Поиск квестов, фильтры, избранное и бронирование. | Flutter · Dart · BLoC · Supabase · Hive |
-| [**Coffeemania**](https://github.com/Liker4ik26/coffeemania) | Заказ кофе, количество товаров в корзине, геолокация и кофейни на карте. | Flutter · Riverpod · SQLite · Dio · Yandex MapKit |
-| [**MarvelApp**](https://github.com/Liker4ik26/flutter_marvel_app) | Информация о героях Marvel, уведомления, кеширование данных, светлая и тёмная темы. | Flutter · Dart · Firebase Messaging |
-| [**Сайт-портфолио**](https://github.com/Liker4ik26/portfolio) | Двуязычный адаптивный сайт, кейсы, галереи проектов и анимации. | HTML · CSS · JavaScript · GitHub Pages |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Liker4ik26/questopia"><img src="assets/projects/questopia.webp" alt="Questopia — превью приложения с моего сайта" width="440"/></a>
+<h4>Questopia</h4>
+<p>Найти приключение: каталог квестов, фильтры, избранное и бронирование в одном приложении.</p>
+<p><sub>Flutter · Dart · BLoC · Supabase · Hive</sub></p>
+<p><a href="https://github.com/Liker4ik26/questopia"><b>Посмотреть проект</b></a> · <a href="https://portfolio.semenova-anzhelika.online/#personal">Галерея на сайте</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Liker4ik26/coffeemania"><img src="assets/projects/coffeemania.svg" alt="Coffeemania — заказ кофе и поиск кофеен" width="440"/></a>
+<h4>Coffeemania</h4>
+<p>Любимый кофе, сохранённая корзина и кофейни рядом — на карте и в отдельном списке.</p>
+<p><sub>Flutter · Riverpod · SQLite · Dio · Yandex MapKit</sub></p>
+<p><a href="https://github.com/Liker4ik26/coffeemania"><b>Посмотреть проект</b></a> · <a href="https://github.com/Liker4ik26/coffeemania/blob/master/docs/GALLERY.md">Видеодемонстрации</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Liker4ik26/flutter_marvel_app"><img src="assets/projects/marvel.svg" alt="MarvelApp — приложение о героях Marvel" width="440"/></a>
+<h4>MarvelApp</h4>
+<p>Вселенная Marvel на Flutter: карточки героев, уведомления, кеширование и светлая и тёмная темы.</p>
+<p><sub>Flutter · Dart · BLoC · Dio · Firebase Messaging</sub></p>
+<p><a href="https://github.com/Liker4ik26/flutter_marvel_app"><b>Посмотреть проект</b></a> · <a href="https://github.com/Liker4ik26/flutter_marvel_app/blob/master/docs/GALLERY.md">Видеодемонстрации</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://portfolio.semenova-anzhelika.online/"><img src="assets/projects/portfolio.png" alt="Мой сайт-портфолио — первый экран" width="440"/></a>
+<h4>Сайт-портфолио</h4>
+<p>Моя работа в одном месте: коммерческие продукты, инженерные кейсы, галереи и анимации. На русском и английском.</p>
+<p><sub>HTML · CSS · JavaScript · GitHub Pages</sub></p>
+<p><a href="https://portfolio.semenova-anzhelika.online/"><b>Открыть сайт</b></a> · <a href="https://github.com/Liker4ik26/portfolio">Исходный код</a></p>
+</td>
+</tr>
+</table>
 
 Другие примеры интерфейсов — **Fitoria** и **DPS Tracker** — в [галерее портфолио](https://portfolio.semenova-anzhelika.online/#personal).
 

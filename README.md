@@ -58,12 +58,40 @@ Start with the Flutter applications below, then explore my Android, iOS and web 
 
 ### Main projects
 
-| Project | What you can explore | Stack |
-| :--- | :--- | :--- |
-| [**Questopia**](https://github.com/Liker4ik26/questopia) | Escape-room discovery, filters, favourites, and booking flows. | Flutter · Dart · BLoC · Supabase · Hive |
-| [**Coffeemania**](https://github.com/Liker4ik26/coffeemania) | Coffee ordering, cart quantities, location, and nearby coffee shops on a map. | Flutter · Riverpod · SQLite · Dio · Yandex MapKit |
-| [**MarvelApp**](https://github.com/Liker4ik26/flutter_marvel_app) | Marvel character information, notifications, cached data, and light/dark themes. | Flutter · Dart · Firebase Messaging |
-| [**This portfolio**](https://github.com/Liker4ik26/portfolio) | A bilingual responsive site with case studies, galleries, and custom motion. | HTML · CSS · JavaScript · GitHub Pages |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Liker4ik26/questopia"><img src="assets/projects/questopia.webp" alt="Questopia — escape-room app preview from my portfolio" width="440"/></a>
+<h4>Questopia</h4>
+<p>Find an adventure. Explore escape rooms, filter results, save favourites and book a visit.</p>
+<p><sub>Flutter · Dart · BLoC · Supabase · Hive</sub></p>
+<p><a href="https://github.com/Liker4ik26/questopia"><b>Explore the project</b></a> · <a href="https://portfolio.semenova-anzhelika.online/#personal">Portfolio gallery</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Liker4ik26/coffeemania"><img src="assets/projects/coffeemania.svg" alt="Coffeemania — coffee ordering and nearby coffee shops" width="440"/></a>
+<h4>Coffeemania</h4>
+<p>Your favourite coffee, a persistent cart and nearby cafés — on the map and in a list.</p>
+<p><sub>Flutter · Riverpod · SQLite · Dio · Yandex MapKit</sub></p>
+<p><a href="https://github.com/Liker4ik26/coffeemania"><b>Explore the project</b></a> · <a href="https://github.com/Liker4ik26/coffeemania/blob/master/docs/GALLERY.md">Watch demos</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Liker4ik26/flutter_marvel_app"><img src="assets/projects/marvel.svg" alt="MarvelApp — Marvel character explorer" width="440"/></a>
+<h4>MarvelApp</h4>
+<p>The Marvel universe in a Flutter app: character details, notifications, caching and light/dark themes.</p>
+<p><sub>Flutter · Dart · BLoC · Dio · Firebase Messaging</sub></p>
+<p><a href="https://github.com/Liker4ik26/flutter_marvel_app"><b>Explore the project</b></a> · <a href="https://github.com/Liker4ik26/flutter_marvel_app/blob/master/docs/GALLERY.md">Watch demos</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://portfolio.semenova-anzhelika.online/"><img src="assets/projects/portfolio.png" alt="My portfolio — live website preview" width="440"/></a>
+<h4>Personal portfolio</h4>
+<p>My work in one place: commercial products, engineering cases, project galleries and custom motion. Available in RU and EN.</p>
+<p><sub>HTML · CSS · JavaScript · GitHub Pages</sub></p>
+<p><a href="https://portfolio.semenova-anzhelika.online/"><b>Visit the website</b></a> · <a href="https://github.com/Liker4ik26/portfolio">Source code</a></p>
+</td>
+</tr>
+</table>
 
 More interface work: **Fitoria** and **DPS Tracker** in the [portfolio gallery](https://portfolio.semenova-anzhelika.online/#personal).
 
