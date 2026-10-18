@@ -50,6 +50,14 @@
 
 ## Публичные проекты — посмотреть код
 
+[**Основные проекты**](#main-projects) · [**Учебные проекты**](#learning-projects) · [**Open-source форк**](#open-source-fork)
+
+Начать знакомство с кодом можно с Flutter-приложений ниже, а затем посмотреть учебные работы для Android, iOS и веба. В каждом репозитории есть описание, стек и инструкции запуска.
+
+<a id="main-projects"></a>
+
+### Основные проекты
+
 | Проект | Что внутри | Стек |
 | :--- | :--- | :--- |
 | [**Questopia**](https://github.com/Liker4ik26/questopia) | Поиск квестов, фильтры, избранное и бронирование. | Flutter · Dart · BLoC · Supabase · Hive |
@@ -58,6 +66,46 @@
 | [**Сайт-портфолио**](https://github.com/Liker4ik26/portfolio) | Двуязычный адаптивный сайт, кейсы, галереи проектов и анимации. | HTML · CSS · JavaScript · GitHub Pages |
 
 Другие примеры интерфейсов — **Fitoria** и **DPS Tracker** — в [галерее портфолио](https://portfolio.semenova-anzhelika.online/#personal).
+
+<a id="learning-projects"></a>
+
+### Учебные проекты
+
+#### Flutter
+
+| Проект | Что изучала | Стек |
+| :--- | :--- | :--- |
+| [**Flutter Profile UI**](https://github.com/Liker4ik26/laba_flutter) | Профиль пользователя, услуги, тарифы, интересы и переиспользуемые компоненты экрана. | Flutter · Riverpod / Hooks |
+| [**My Will**](https://github.com/Liker4ik26/my_will) | Адаптивная веб-вёрстка с мобильным и десктопным представлениями. | Flutter Web · adaptive_layout |
+
+#### Android
+
+| Проект | Что изучала | Стек |
+| :--- | :--- | :--- |
+| [**Smart Home**](https://github.com/Liker4ik26/smart_home) | Комнаты, устройства, управление освещением и климатом в интерфейсе умного дома. | Kotlin · Compose · Hilt · Supabase |
+| [**Newsly**](https://github.com/Liker4ik26/Newsly) | Лента новостей, поиск, статьи и авторизация. | Kotlin · Compose · Retrofit · Firebase Auth |
+| [**Weather**](https://github.com/Liker4ik26/Weather) | Поиск города, погодные показатели, отправка прогноза, темы и RU/EN. | Kotlin · Compose · Retrofit · Hilt |
+| [**Weather 3**](https://github.com/Liker4ik26/weather3) | Раннее погодное приложение с выбором города и сохранением настроек. | Kotlin · XML Views · ViewModel · LiveData |
+| [**Smartlab**](https://github.com/Liker4ik26/smartlab) | Каталог анализов, карточки пациентов, корзина и оформление заказа. | Kotlin · Compose · Retrofit · Hilt |
+| [**PlayZone**](https://github.com/Liker4ik26/PlayZone) | Интерфейс игрового каталога, рейтинги, отзывы и кнопки установки и запуска. | Kotlin · Compose · Material 3 |
+| [**CargoGo**](https://github.com/Liker4ik26/CargoGo) | Начальная основа Android-проекта для дальнейшей разработки. | Kotlin · Android |
+
+#### iOS и веб
+
+| Проект | Что изучала | Стек |
+| :--- | :--- | :--- |
+| [**MedApp**](https://github.com/Liker4ik26/MedApp) | Медицинский интерфейс: категории услуг, карточки врачей и нижняя навигация. | Swift · SwiftUI |
+| [**Healthcare Landing Page**](https://github.com/Liker4ik26/weblaba) | Карточки медицинских услуг, навигация, отзывы и статьи. | React · TypeScript · Vite · SCSS |
+
+Учебные работы находятся на разных этапах готовности: интерфейсные прототипы и начальные заготовки отмечены в README самих проектов.
+
+<a id="open-source-fork"></a>
+
+### Open-source форк
+
+[**Universal Code Viewer**](https://github.com/Liker4ik26/universal_code_viewer) — форк [codefusionbitllp/universal_code_viewer](https://github.com/codefusionbitllp/universal_code_viewer). Авторство оригинала и лицензия сохранены; он вынесен отдельно от моих собственных проектов.
+
+[Все репозитории](https://github.com/Liker4ik26?tab=repositories) · [Исходники этого профиля](https://github.com/Liker4ik26/Liker4ik26)
 
 ## Стек в контексте задач
 

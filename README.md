@@ -50,6 +50,14 @@ Commercial products were developed in a team. The links describe my contribution
 
 ## Public projects · explore the code
 
+[**Main projects**](#main-projects) · [**Learning projects**](#learning-projects) · [**Open-source fork**](#open-source-fork)
+
+Start with the Flutter applications below, then explore my Android, iOS and web studies. Each repository includes its own overview, stack and setup notes.
+
+<a id="main-projects"></a>
+
+### Main projects
+
 | Project | What you can explore | Stack |
 | :--- | :--- | :--- |
 | [**Questopia**](https://github.com/Liker4ik26/questopia) | Escape-room discovery, filters, favourites, and booking flows. | Flutter · Dart · BLoC · Supabase · Hive |
@@ -58,6 +66,46 @@ Commercial products were developed in a team. The links describe my contribution
 | [**This portfolio**](https://github.com/Liker4ik26/portfolio) | A bilingual responsive site with case studies, galleries, and custom motion. | HTML · CSS · JavaScript · GitHub Pages |
 
 More interface work: **Fitoria** and **DPS Tracker** in the [portfolio gallery](https://portfolio.semenova-anzhelika.online/#personal).
+
+<a id="learning-projects"></a>
+
+### Learning projects
+
+#### Flutter
+
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| [**Flutter Profile UI**](https://github.com/Liker4ik26/laba_flutter) | User profile, services, plans, interests and reusable screen components. | Flutter · Riverpod / Hooks |
+| [**My Will**](https://github.com/Liker4ik26/my_will) | Responsive web layouts with mobile and desktop presentations. | Flutter Web · adaptive_layout |
+
+#### Android
+
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| [**Smart Home**](https://github.com/Liker4ik26/smart_home) | Rooms, devices, lighting and climate controls in a smart-home interface. | Kotlin · Compose · Hilt · Supabase |
+| [**Newsly**](https://github.com/Liker4ik26/Newsly) | News feed, search, article details and authentication. | Kotlin · Compose · Retrofit · Firebase Auth |
+| [**Weather**](https://github.com/Liker4ik26/Weather) | City search, weather conditions, sharing, themes and RU/EN. | Kotlin · Compose · Retrofit · Hilt |
+| [**Weather 3**](https://github.com/Liker4ik26/weather3) | Early weather application with city selection and saved preferences. | Kotlin · XML Views · ViewModel · LiveData |
+| [**Smartlab**](https://github.com/Liker4ik26/smartlab) | Medical test catalog, patient cards, cart and checkout flows. | Kotlin · Compose · Retrofit · Hilt |
+| [**PlayZone**](https://github.com/Liker4ik26/PlayZone) | Game catalog UI, ratings, reviews and install/play controls. | Kotlin · Compose · Material 3 |
+| [**CargoGo**](https://github.com/Liker4ik26/CargoGo) | Android project foundation for further development. | Kotlin · Android |
+
+#### iOS & web
+
+| Project | Focus | Stack |
+| :--- | :--- | :--- |
+| [**MedApp**](https://github.com/Liker4ik26/MedApp) | Medical app UI: service categories, doctor cards and tab navigation. | Swift · SwiftUI |
+| [**Healthcare Landing Page**](https://github.com/Liker4ik26/weblaba) | Medical service cards, navigation, reviews and articles. | React · TypeScript · Vite · SCSS |
+
+These repositories document learning work at different stages; UI studies and project foundations are labelled in their READMEs.
+
+<a id="open-source-fork"></a>
+
+### Open-source fork
+
+[**Universal Code Viewer**](https://github.com/Liker4ik26/universal_code_viewer) — a fork of [codefusionbitllp/universal_code_viewer](https://github.com/codefusionbitllp/universal_code_viewer). Original authorship and licensing are preserved; this is separate from my own projects.
+
+[Browse all repositories](https://github.com/Liker4ik26?tab=repositories) · [Source of this profile](https://github.com/Liker4ik26/Liker4ik26)
 
 ## Technologies in context
 
