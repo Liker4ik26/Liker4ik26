@@ -53,7 +53,7 @@ Commercial products were developed in a team. The links describe my contribution
 | Project | What you can explore | Stack |
 | :--- | :--- | :--- |
 | [**Questopia**](https://github.com/Liker4ik26/questopia) | Escape-room discovery, filters, favourites, and booking flows. | Flutter · Dart · BLoC · Supabase · Hive |
-| [**Coffeemania**](https://github.com/Liker4ik26/coffeemania) | Coffee ordering, cart quantities, location, and nearby coffee shops on a map. | Flutter · Riverpod · Realm · Dio · Yandex MapKit |
+| [**Coffeemania**](https://github.com/Liker4ik26/coffeemania) | Coffee ordering, cart quantities, location, and nearby coffee shops on a map. | Flutter · Riverpod · SQLite · Dio · Yandex MapKit |
 | [**MarvelApp**](https://github.com/Liker4ik26/flutter_marvel_app) | Marvel character information, notifications, cached data, and light/dark themes. | Flutter · Dart · Firebase Messaging |
 | [**This portfolio**](https://github.com/Liker4ik26/portfolio) | A bilingual responsive site with case studies, galleries, and custom motion. | HTML · CSS · JavaScript · GitHub Pages |
 

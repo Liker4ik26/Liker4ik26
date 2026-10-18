@@ -53,7 +53,7 @@
 | Проект | Что внутри | Стек |
 | :--- | :--- | :--- |
 | [**Questopia**](https://github.com/Liker4ik26/questopia) | Поиск квестов, фильтры, избранное и бронирование. | Flutter · Dart · BLoC · Supabase · Hive |
-| [**Coffeemania**](https://github.com/Liker4ik26/coffeemania) | Заказ кофе, количество товаров в корзине, геолокация и кофейни на карте. | Flutter · Riverpod · Realm · Dio · Yandex MapKit |
+| [**Coffeemania**](https://github.com/Liker4ik26/coffeemania) | Заказ кофе, количество товаров в корзине, геолокация и кофейни на карте. | Flutter · Riverpod · SQLite · Dio · Yandex MapKit |
 | [**MarvelApp**](https://github.com/Liker4ik26/flutter_marvel_app) | Информация о героях Marvel, уведомления, кеширование данных, светлая и тёмная темы. | Flutter · Dart · Firebase Messaging |
 | [**Сайт-портфолио**](https://github.com/Liker4ik26/portfolio) | Двуязычный адаптивный сайт, кейсы, галереи проектов и анимации. | HTML · CSS · JavaScript · GitHub Pages |
 
