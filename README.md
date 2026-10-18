@@ -68,7 +68,7 @@ Start with the Flutter applications below, then explore my Android, iOS and web 
 <p><a href="https://github.com/Liker4ik26/questopia"><b>Explore the project</b></a> · <a href="https://portfolio.semenova-anzhelika.online/#personal">Portfolio gallery</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Liker4ik26/coffeemania"><img src="assets/projects/coffeemania-cover.svg" alt="Coffeemania — coffee ordering and nearby coffee shops" width="440"/></a>
+<a href="https://github.com/Liker4ik26/coffeemania"><img src="assets/projects/coffeemania-screenshots.svg" alt="Coffeemania — real screenshots of the drink catalog and café map" width="440"/></a>
 <h4>Coffeemania</h4>
 <p>Your favourite coffee, a persistent cart and nearby cafés — on the map and in a list.</p>
 <p><sub>Flutter · Riverpod · SQLite · Dio · Yandex MapKit</sub></p>
@@ -77,7 +77,7 @@ Start with the Flutter applications below, then explore my Android, iOS and web 
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Liker4ik26/flutter_marvel_app"><img src="assets/projects/marvel-cover.svg" alt="MarvelApp — Marvel character explorer" width="440"/></a>
+<a href="https://github.com/Liker4ik26/flutter_marvel_app"><img src="assets/projects/marvel-screenshots.svg" alt="MarvelApp — real screenshots of the character catalog" width="440"/></a>
 <h4>MarvelApp</h4>
 <p>The Marvel universe in a Flutter app: character details, notifications, caching and light/dark themes.</p>
 <p><sub>Flutter · Dart · BLoC · Dio · Firebase Messaging</sub></p>
