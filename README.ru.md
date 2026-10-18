@@ -91,6 +91,18 @@
 <p><a href="https://portfolio.semenova-anzhelika.online/"><b>Открыть сайт</b></a> · <a href="https://github.com/Liker4ik26/portfolio">Исходный код</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/projects/renttrace-screenshot.svg" alt="RentTrace — реальный экран выбора города" width="440"/>
+</td>
+<td width="50%" valign="top">
+<h4>RentTrace</h4>
+<p><b>Истории жилья до аренды.</b> Flutter-приложение об опыте аренды в Сербии: выбор города, поиск адресов, карта жилья, истории арендаторов и черновики отзывов с модерацией перед публикацией.</p>
+<p><sub>Flutter · Dart · BLoC · AutoRoute · Supabase · flutter_map</sub></p>
+<p><b>В разработке · Код закрыт</b></p>
+<p><a href="mailto:pr110oat18@gmail.com?subject=RentTrace"><b>Обсудить проект со мной</b></a></p>
+</td>
+</tr>
 </table>
 
 Другие примеры интерфейсов — **Fitoria** и **DPS Tracker** — в [галерее портфолио](https://portfolio.semenova-anzhelika.online/#personal).

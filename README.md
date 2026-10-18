@@ -91,6 +91,18 @@ Start with the Flutter applications below, then explore my Android, iOS and web 
 <p><a href="https://portfolio.semenova-anzhelika.online/"><b>Visit the website</b></a> · <a href="https://github.com/Liker4ik26/portfolio">Source code</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<img src="assets/projects/renttrace-screenshot.svg" alt="RentTrace — actual city selection screen" width="440"/>
+</td>
+<td width="50%" valign="top">
+<h4>RentTrace</h4>
+<p><b>Rental stories before you rent.</b> A Flutter application for exploring housing experiences in Serbia: city and address search, a rental map, housing stories and review drafts with moderation before publication.</p>
+<p><sub>Flutter · Dart · BLoC · AutoRoute · Supabase · flutter_map</sub></p>
+<p><b>In development · Source code is private</b></p>
+<p><a href="mailto:pr110oat18@gmail.com?subject=RentTrace"><b>Ask me about the project</b></a></p>
+</td>
+</tr>
 </table>
 
 More interface work: **Fitoria** and **DPS Tracker** in the [portfolio gallery](https://portfolio.semenova-anzhelika.online/#personal).
