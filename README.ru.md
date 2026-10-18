@@ -68,7 +68,7 @@
 <p><a href="https://github.com/Liker4ik26/questopia"><b>Посмотреть проект</b></a> · <a href="https://portfolio.semenova-anzhelika.online/#personal">Галерея на сайте</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/Liker4ik26/coffeemania"><img src="assets/projects/coffeemania.svg" alt="Coffeemania — заказ кофе и поиск кофеен" width="440"/></a>
+<a href="https://github.com/Liker4ik26/coffeemania"><img src="assets/projects/coffeemania-cover.svg" alt="Coffeemania — заказ кофе и поиск кофеен" width="440"/></a>
 <h4>Coffeemania</h4>
 <p>Любимый кофе, сохранённая корзина и кофейни рядом — на карте и в отдельном списке.</p>
 <p><sub>Flutter · Riverpod · SQLite · Dio · Yandex MapKit</sub></p>
@@ -77,7 +77,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/Liker4ik26/flutter_marvel_app"><img src="assets/projects/marvel.svg" alt="MarvelApp — приложение о героях Marvel" width="440"/></a>
+<a href="https://github.com/Liker4ik26/flutter_marvel_app"><img src="assets/projects/marvel-cover.svg" alt="MarvelApp — приложение о героях Marvel" width="440"/></a>
 <h4>MarvelApp</h4>
 <p>Вселенная Marvel на Flutter: карточки героев, уведомления, кеширование и светлая и тёмная темы.</p>
 <p><sub>Flutter · Dart · BLoC · Dio · Firebase Messaging</sub></p>
